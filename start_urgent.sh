@@ -4,7 +4,7 @@ sudo apt-get install libfuse2
 figlet Sh-bharat
 
 
-if [ -d "edEX-UI-Linux86_64" ]
+if [ -f "eDEX-UI-Linux-x86_64.AppImage" ]
 then
 echo "Directory Present"
 
